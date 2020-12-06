@@ -1,0 +1,16 @@
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\TP3.exe.config
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\TP3.exe
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\TP3.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\Archivos.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\ClasesAbstractas.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\ClasesInstanciables.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\Excepciones.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\Archivos.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\ClasesAbstractas.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\ClasesInstanciables.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\bin\Debug\Excepciones.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\obj\Debug\TP3.csproj.CopyComplete
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\obj\Debug\TP3.exe
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\TP3\obj\Debug\TP3.pdb

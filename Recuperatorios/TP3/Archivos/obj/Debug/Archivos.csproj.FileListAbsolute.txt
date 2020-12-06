@@ -1,0 +1,9 @@
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\bin\Debug\Archivos.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\bin\Debug\Archivos.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\obj\Debug\Archivos.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\obj\Debug\Archivos.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\bin\Debug\Excepciones.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Archivos\obj\Debug\Archivos.csproj.CopyComplete

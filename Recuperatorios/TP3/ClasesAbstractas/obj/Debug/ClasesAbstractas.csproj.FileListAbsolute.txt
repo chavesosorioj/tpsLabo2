@@ -1,0 +1,9 @@
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

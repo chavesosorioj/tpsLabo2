@@ -1,0 +1,6 @@
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\chave\Source\Repositorios\TP3CON-TODO\Excepciones\obj\Debug\Excepciones.pdb
